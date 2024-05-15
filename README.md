@@ -1,5 +1,5 @@
 ---
-title: Gradio Chatbot
+title: Mistralai Mistral 7B Instruct V0.2
 emoji: 💬
 colorFrom: yellow
 colorTo: purple
